@@ -1,3 +1,3 @@
 # COOKIE-Consent
 JS, CSS, html  
-Very importent
+Very importent project for Cookie
